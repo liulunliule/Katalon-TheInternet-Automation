@@ -29,8 +29,19 @@ This project demonstrates automation testing using Katalon Studio with:
 
 ## 🚀 How to Run
 
+### Run via Test Suite (Recommended)
+
 1. Open project in Katalon Studio
-2. Run test case: `TC02_Login_DataDriven`
+2. Go to **Test Suites**
+3. Select: `Regression_Suite`
+4. Click **Run**
+
+### Included Test Cases
+
+* TC01_Login_Failed_With_Empty_Password
+* TC02_Login_DataDriven
+* TC03_Checkboxes
+* TC04_Dropdown
 
 ## 👩‍💻 Author
 
