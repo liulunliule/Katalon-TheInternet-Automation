@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validation data for 1 user</description>
+   <name>API_TC02_GetUser_Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de31891b-4c89-4b74-a7c6-17da548aba9b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API_TC03_GetAllUsers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d73147f5-971f-42cb-840d-9a745ca84dd7</testCaseGuid>
+</TestCaseEntity>
