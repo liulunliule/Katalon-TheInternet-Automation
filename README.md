@@ -19,8 +19,7 @@ This project demonstrates automation testing using Katalon Studio with:
 
 * Katalon Studio
 * Groovy
-* Selenium (under the hood)
-
+  
 ## 📂 Project Structure
 
 * Test Cases: Contains all test scenarios
