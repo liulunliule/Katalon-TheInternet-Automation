@@ -43,7 +43,6 @@ Located in: `Test Cases/API`
 
 * Katalon Studio
 * Groovy
-* Selenium (UI Testing)
 * REST API (API Testing)
 
 ---
